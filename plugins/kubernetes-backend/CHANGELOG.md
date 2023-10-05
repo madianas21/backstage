@@ -1,5 +1,21 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.12.3-next.2
+
+### Patch Changes
+
+- 95518765ee: Add Kubernetes cluster plugin. Viewing Kubernetes clusters as an Admin from Backstage
+- 5dac12e435: The kubernetes APIs invokes Authentication Strategies when Backstage-Kubernetes-Authorization-X-X headers are provided, this enable the possibility to invoke strategies that executes additional steps to get a kubernetes token like on pinniped or custom strategies
+- Updated dependencies
+  - @backstage/backend-common@0.19.8-next.2
+  - @backstage/plugin-auth-node@0.3.3-next.2
+  - @backstage/plugin-kubernetes-common@0.7.0-next.1
+  - @backstage/plugin-catalog-node@1.4.7-next.2
+  - @backstage/plugin-permission-node@0.7.17-next.2
+  - @backstage/backend-plugin-api@0.6.6-next.2
+  - @backstage/config@1.1.0
+  - @backstage/integration-aws-node@0.1.6
+
 ## 0.12.2-next.1
 
 ### Patch Changes

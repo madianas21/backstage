@@ -1,5 +1,19 @@
 # @backstage/frontend-app-api
 
+## 0.2.0-next.2
+
+### Patch Changes
+
+- 1718ec75b7: Added support for the existing routing system.
+- Updated dependencies
+  - @backstage/core-app-api@1.11.0-next.2
+  - @backstage/theme@0.4.3-next.0
+  - @backstage/core-components@0.13.6-next.2
+  - @backstage/core-plugin-api@1.7.0-next.0
+  - @backstage/plugin-graphiql@0.2.55-next.2
+  - @backstage/frontend-plugin-api@0.1.1-next.1
+  - @backstage/config@1.1.0
+
 ## 0.2.0-next.1
 
 ### Patch Changes

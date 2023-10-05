@@ -1,5 +1,19 @@
 # @backstage/backend-app-api
 
+## 0.5.6-next.2
+
+### Patch Changes
+
+- 74491c9602: Moved `HostDiscovery` from `@backstage/backend-common`.
+- Updated dependencies
+  - @backstage/backend-common@0.19.8-next.2
+  - @backstage/plugin-auth-node@0.3.3-next.2
+  - @backstage/backend-tasks@0.5.11-next.2
+  - @backstage/plugin-permission-node@0.7.17-next.2
+  - @backstage/config-loader@1.5.1-next.0
+  - @backstage/backend-plugin-api@0.6.6-next.2
+  - @backstage/config@1.1.0
+
 ## 0.5.5-next.1
 
 ### Patch Changes

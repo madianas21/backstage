@@ -1,5 +1,20 @@
 # @backstage/plugin-scaffolder
 
+## 1.15.1-next.2
+
+### Patch Changes
+
+- 83e4a42ccd: Display log visibility button on the template panel
+- Updated dependencies
+  - @backstage/theme@0.4.3-next.0
+  - @backstage/core-components@0.13.6-next.2
+  - @backstage/core-plugin-api@1.7.0-next.0
+  - @backstage/plugin-catalog-react@1.8.5-next.2
+  - @backstage/plugin-scaffolder-react@1.5.6-next.2
+  - @backstage/integration-react@1.1.20-next.2
+  - @backstage/config@1.1.0
+  - @backstage/plugin-permission-react@0.4.16-next.0
+
 ## 1.15.1-next.1
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @backstage/plugin-tech-insights
 
+## 0.3.17-next.2
+
+### Patch Changes
+
+- 21f409d776: Export `ScorecardInfo` and `ScorecardsList` components to be able to use manually queried check results directly.
+- Updated dependencies
+  - @backstage/theme@0.4.3-next.0
+  - @backstage/core-components@0.13.6-next.2
+  - @backstage/core-plugin-api@1.7.0-next.0
+  - @backstage/plugin-catalog-react@1.8.5-next.2
+
 ## 0.3.17-next.1
 
 ### Patch Changes
